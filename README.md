@@ -6,3 +6,7 @@ A tarefa consistia em escrever um código em ligiagem de programação para calc
 
 # Referências Bibliográficas
 Método do Ponto fixo, disponível em <https://www.ufrgs.br/numerico/livro/sdeduv-iteracao_de_ponto_fixo.html>
+
+
+#
+@thadeupenna
